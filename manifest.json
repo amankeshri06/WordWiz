@@ -1,0 +1,15 @@
+{
+    "name": "Meaningfy",
+    "version": "1.0.0",
+    "description": "provides definition of the entered word",
+    "manifest_version": 3,
+    "author": "Subhamoy Bera",
+    "icons": {
+      
+        "128": "icon.png"
+      },
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Meaningfy"
+    }
+}
